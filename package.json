@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/scaredofseagles/terminal-snake/issues"
   },
-  "homepage": "https://github.com/scaredofseagles/terminal-snake#readme"
+  "homepage": "https://github.com/scaredofseagles/terminal-snake#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
 }
